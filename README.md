@@ -1,5 +1,7 @@
 # Code data for the EC zoo
 
+**This is a fork of the original repository**
+
 This repository contains the data, in a semi-structured form, which forms the
 contents of the [Error Correction Zoo](https://errorcorrectionzoo.org/).
 
